@@ -1,0 +1,14 @@
+Configuration
+
+Mode master.
+SS is high when idle.
+Data send in clock falling edge.
+Clock Prescale = 128 (125KHz).
+Clock high when idle.
+
+Data
+
+8 LSB Bits of Controller 1 Sequence
+8 MSB Bits of Controller 1 Sequence
+8 LSB Bits of Controller 2 Sequence
+8 MSB Bits of Controller 2 Sequence
