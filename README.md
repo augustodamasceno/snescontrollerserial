@@ -1,5 +1,5 @@
 # snescontrollerserial
-Firmware of a Hardware Reader of Snes Controller  
+Firmware and Hardware Reader of Snes Controller  
 
 The hardware reads two snes controllers and sends the information through   
 UART and SPI protocols.  
